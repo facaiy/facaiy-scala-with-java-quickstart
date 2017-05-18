@@ -23,3 +23,9 @@ mvn archetype:generate \
         -DartifactId=my-artifactId \
         -Dversion=1.0-SNAPSHOT
 ```
+
+Ref:
+
++ [apache/spark](https://github.com/apache/spark)
++ [davidB/scala-archetype-simple](https://github.com/davidB/scala-archetype-simple)
++ [spring-mvc-quickstart-archetype](https://github.com/kolorobot/spring-mvc-quickstart-archetype)
