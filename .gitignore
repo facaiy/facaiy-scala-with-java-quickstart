@@ -1,11 +1,8 @@
-*.class
-*.log
-
-# hidden file
+# Hidden file
 .*
-tmp/
 
-# java
+# Temporary file
+tmp/
 
 # mvn
 target/
