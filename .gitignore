@@ -1,2 +1,14 @@
 *.class
 *.log
+
+# hidden file
+.*
+tmp/
+
+# java
+
+# mvn
+target/
+
+# intellij
+*.iml
